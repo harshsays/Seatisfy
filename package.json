@@ -1,0 +1,19 @@
+{
+  "name": "seat-booking-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  }
+}
